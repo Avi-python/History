@@ -1,2 +1,2 @@
 # History
-This repository will store all my old coding program. Because There are my good old days.
+This repository will stores all my old coding programs. Because They are my good old days.
